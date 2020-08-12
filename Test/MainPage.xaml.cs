@@ -9,6 +9,7 @@ namespace Test
 {
     public partial class MainPage : ContentPage
     {
+        string test ="";
         public MainPage()
         {
             InitializeComponent();
