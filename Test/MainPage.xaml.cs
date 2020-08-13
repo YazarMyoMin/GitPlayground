@@ -9,7 +9,7 @@ namespace Test
 {
     public partial class MainPage : ContentPage
     {
-        string test ="";
+        string test ="Security hole";        
         public MainPage()
         {
             InitializeComponent();
