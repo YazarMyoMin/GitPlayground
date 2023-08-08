@@ -7,4 +7,8 @@ This is the Playground for GIT
 
 ## Pull Request Template in GitHub
 
-- Create `PULL_REQUEST_TEMPLATE.md` in either the `project’s root folder `or `.github` directory.
+- Single Template
+
+Create `PULL_REQUEST_TEMPLATE.md` in either the `project’s root folder`or `.github` directory.
+
+- Multiple Templates
